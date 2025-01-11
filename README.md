@@ -1,4 +1,8 @@
 # pemilos25
+
+## link voting
+https://amfhaa.github.io/pemilos25/
+
 ## tombol penting
 - 1 : menampilkan hitungan
 - 2 : menyembunyikan hitungan
